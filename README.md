@@ -8,4 +8,4 @@ Results on the leaderboard:
 Results on the validation set:  
 ![image](https://github.com/Luoxd1996/CheXpert_challenge/blob/master/validation_results.png)  
 **Reference**  
-CheXpert: A large chest radiograph dataset with uncertainty labels and expert comparison by Jeremy Irvin, Pranav Rajpurkar et al from Stanford's ML Group https://arxiv.org/abs/1901.07031
+CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison https://arxiv.org/abs/1901.07031
